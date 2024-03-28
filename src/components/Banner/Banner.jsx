@@ -5,7 +5,7 @@ const Banner = () => {
   return (
     <div className=" my-10 lg:grid lg:grid-cols-2 justify-between items-center lg:w-[1170px] mx-auto bg-[#1313130D] rounded-3xl shadow-lg lg:h-[654px]">
       <div className=" px-20">
-        <Typography variant="h2" className=" text-5xl font-bold">Books to freshen up  your bookshelf</Typography>
+        <Typography variant="h2" className=" text-5xl font-bold">Books is the success</Typography>
         <div className=" py-5">
         <Link className=" py-10" to={"/booklists-details"}>
         <Button className=" bg-[#23BE0A]">View The List</Button>
