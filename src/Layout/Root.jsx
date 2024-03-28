@@ -1,13 +1,14 @@
-
 import { Outlet } from "react-router-dom";
-import { NavbarWithMegaMenu } from "../Pages/Shared/NavigationBar/NavigationBar";
-
+import { NavbarWithMegaMenu } from "../Pages/Shahed/NavigationBar/NavigationBar";
+import { FooterWithSitemap } from "../Pages/Shahed/Footer/Footer";
 
 const Root = () => {
     return (
         <div>
-           <NavbarWithMegaMenu></NavbarWithMegaMenu>
+            <NavbarWithMegaMenu></NavbarWithMegaMenu>
             <Outlet></Outlet>
+            <br />
+            <FooterWithSitemap></FooterWithSitemap>
         </div>
     );
 };

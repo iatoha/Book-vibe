@@ -1,0 +1,87 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "The Catcher in the Rye",
+      "author": "By : Awlad Hossain",
+      "image": "https://humanistcare.org/wp-content/uploads/2021/03/sarah-book-3.jpg",
+      "review": "A timeless classic that delves into the decadence and disillusionment of the Jazz Age.The Catcher in the Rye is an all-time classic in coming-of-age literature- an elegy to teenage alienation, capturing the deeply human need for connection and the bewildering sense of loss as we leave childhood behind.",
+      "totalPages": 180,
+      "rating": 4.5,
+      "category": "Fiction",
+      "tags1": "Classics",
+      "tags2":  "Romance",
+      "publisher": "Scribner",
+      "yearOfPublishing": 1925
+    },
+    {
+      "bookId": 2,
+      "bookName": "Pather Panchali",
+      "author": "Bibhutibhushan Bandyopadhyay",
+      "image": "https://static-01.daraz.com.bd/p/97cd56f19ff86dfe027ecac5cb1ba5cf.jpg",
+      "review": "An unsettling dystopian vision of a totalitarian society that remains disturbingly relevant Ray's  the first of his unforgettable  is a remarkable film experience. The acting is strong, the direction and script, sure, and the total work, eloquent and moving. A film which one can return to again and again, and each time one can discover new elements. This is a staple of my video library, along with Ray's other two films which complete the trio I have watched the trilogy in a continuous sitting on two occasions, and the experience was emotionally overwhelming..",
+      "totalPages": 328,
+      "rating": 4.8,
+      "category": "Fiction",
+      "tags1": "Dystopian",
+      "tags2":  "Political",
+      "publisher": "Secker & Warburg",
+      "yearOfPublishing": 1949
+    },
+    {
+      "bookId": 3,
+      "bookName": "Why Do You Hate Money?",
+      "author": "Joey Percia",
+      "image": "https://www.kindpng.com/picc/m/731-7318921_why-do-you-hate-money-book-cover-hd.png",
+      "review": "A very good book on copy for fitness... But not only! Joey Percia's book is a summary of copywriting on fitness market, but not only on that... Same concept can be applied on almost every other market. With his simple and comprehensible style he puts down a sort of Bible on the subject.Bottom line, if you want more customers or effective content, grab this. If you want a super simple, and easy to implement framework for marketing, cracking the code of consumer psychology, and effective marketing - read this book. Having read other classic copywriting books, Joey distills the essential concepts so you can implement in real time instead of getting lost in tons of unnecessary details and deep academic theories and concepts. Always great to learn from someone who successfully practices what he preaches, and the added humor and entertainment keep it engaging.",
+      "totalPages": 281,
+      "rating": 4.7,
+      "category": "Fiction",
+      "tags1": "Classic",
+      "tags2":  "Coming of Age",
+      "publisher": "J. B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+    },
+    {
+      "bookId": 4,
+      "bookName": "Annotated Texas Family Code",
+      "author": "John J. Sampson",
+      "image": "https://www.publishersweekly.com/cover/9781455583775",
+      "review": "An iconic portrayal of teenage angst and rebellion that continues to resonate with readers.",
+      "totalPages": 224,
+      "rating": 4.3,
+      "category": "Fiction",
+      "tags1": "Coming of Age",
+      "tags2":  "Literary",
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951
+    },
+    {
+      "bookId": 5,
+      "bookName": "The Scholarship Monthly Planner",
+      "author": "Marianne Ragins",
+      "image": "https://th.bing.com/th/id/OIP.3rVeQq44KGbFidcobBoaLQHaLH?rs=1&pid=ImgDetMain",
+      "review": "An iconic portrayal of teenage angst and rebellion that continues to resonate with readers.",
+      "totalPages": 224,
+      "rating": 4.3,
+      "category": "Fiction",
+      "tags1": "Coming of Age",
+      "tags2": "Literary",
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951
+    },
+    {
+      "bookId": 6,
+      "bookName": "The Hate U Give",
+      "author": "Angie Thomas",
+      "image": "https://th.bing.com/th/id/R.f632d9f42fa99e192751713aebc6533d?rik=Lq1n8hgVJGheMQ&pid=ImgRaw&r=0",
+      "review": "An iconic portrayal of teenage angst and rebellion that continues to resonate with readers.",
+      "totalPages": 224,
+      "rating": 4.3,
+      "category": "Fiction",
+      "tags1": "Coming of Age",
+      "tags2": "Literary",
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951
+    }
+  ]
+  
