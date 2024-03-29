@@ -1,7 +1,6 @@
 # BookExplorer
 
-Live Site: [https://www.travelexplorer.com](https://www.travelexplorer.com)
-
+Live Site: [https://book-vibe-psi.vercel.app/]
 ## Features and Characteristics
 
 - **Explore Books**: Browse through a vast collection of destinations worldwide, with detailed information on attractions, accommodations, and local culture.
